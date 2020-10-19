@@ -1,0 +1,28 @@
+body {
+    padding-top: 0px;
+}
+header {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 60px;
+    background: black;
+    color: white;
+
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+.logIn {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 15px;
+}
